@@ -1,4 +1,13 @@
 # ffmpegthumbnailer
-Lightweight video thumbnailer that can be used by file managers.
+FFmpegthumbnailer is a lightweight video thumbnailer that can be used by file
+managers to create thumbnails for your video files. The thumbnailer uses ffmpeg
+o decode frames from the video files, so supported videoformats depend on the
+configuration flags of ffmpeg.
 
-This is the sources from https://code.google.com/p/ffmpegthumbnailer packaged into a release so it can be used in Alpine Linux's Spacefm File Manager.
+This thumbnailer was designed to be as fast and lightweight as possible. The
+only dependencies are ffmpeg and libpng.
+
+This is the 2.0.9 sources from https://code.google.com/p/ffmpegthumbnailer packaged
+into a release so it can be used in http://ignorantguru.github.io/spacefm for
+http://alpinelinux.org (& perhaps be useful for other distributions).
+
