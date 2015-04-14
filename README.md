@@ -7,7 +7,7 @@ configuration flags of ffmpeg.
 This thumbnailer was designed to be as fast and lightweight as possible. The
 only dependencies are ffmpeg and libpng.
 
-This is the 2.0.9 sources from https://code.google.com/p/ffmpegthumbnailer packaged
-into a release so it can be used in http://ignorantguru.github.io/spacefm for
-http://alpinelinux.org (& perhaps be useful for other distributions).
+This is the 2.0.9 sources from the [Author's Google Drive](https://code.google.com/p/ffmpegthumbnailer) packaged
+into a release so it can be used in [SpaceFM 1.0.0+](http://ignorantguru.github.io/spacefm) for
+[Alpine Linux](http://alpinelinux.org) (& perhaps be useful for other distributions).
 
